@@ -1,0 +1,57 @@
+/**
+ * #.# Styles
+ *
+ * CSS for both Frontend+Backend.
+ */
+
+
+.rich-content {
+
+}
+
+.cls-1 {
+  fill: #333;
+}
+
+.cls-2 {
+  fill: #fff;
+}
+
+.cls-3 {
+  fill: #777;
+}
+
+.cls-4 {
+  fill: #aaa;
+}
+
+.cls-5 {
+  fill: #ddd;
+}
+
+
+svg {
+  max-width: 100vw;
+}
+
+.bold {
+  .cls-1 {
+	fill: #880c18;
+  }
+
+  .cls-2 {
+	fill: #f15a29;
+  }
+
+  .cls-3 {
+	fill: #be1e2d;
+  }
+
+  .cls-4 {
+	fill: #ef4136;
+  }
+
+  .cls-5 {
+	fill: #f7941d;
+  }
+}
